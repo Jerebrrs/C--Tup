@@ -1,0 +1,14 @@
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/HolaMundo/bin/Debug/net8.0/HolaMundo
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/HolaMundo/bin/Debug/net8.0/HolaMundo.deps.json
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/HolaMundo/bin/Debug/net8.0/HolaMundo.runtimeconfig.json
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/HolaMundo/bin/Debug/net8.0/HolaMundo.dll
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/HolaMundo/bin/Debug/net8.0/HolaMundo.pdb
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/HolaMundo/obj/Debug/net8.0/HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/HolaMundo/obj/Debug/net8.0/HolaMundo.AssemblyInfoInputs.cache
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/HolaMundo/obj/Debug/net8.0/HolaMundo.AssemblyInfo.cs
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/HolaMundo/obj/Debug/net8.0/HolaMundo.csproj.CoreCompileInputs.cache
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/HolaMundo/obj/Debug/net8.0/HolaMundo.dll
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/HolaMundo/obj/Debug/net8.0/refint/HolaMundo.dll
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/HolaMundo/obj/Debug/net8.0/HolaMundo.pdb
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/HolaMundo/obj/Debug/net8.0/HolaMundo.genruntimeconfig.cache
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/HolaMundo/obj/Debug/net8.0/ref/HolaMundo.dll
