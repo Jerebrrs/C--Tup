@@ -1,0 +1,15 @@
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/clase-1/obj/Debug/net8.0/clase-1.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/clase-1/obj/Debug/net8.0/clase-1.AssemblyInfoInputs.cache
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/clase-1/obj/Debug/net8.0/clase-1.AssemblyInfo.cs
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/clase-1/obj/Debug/net8.0/clase-1.csproj.CoreCompileInputs.cache
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/clase-1/obj/Debug/net8.0/clase-1.sourcelink.json
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/clase-1/bin/Debug/net8.0/clase-1
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/clase-1/bin/Debug/net8.0/clase-1.deps.json
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/clase-1/bin/Debug/net8.0/clase-1.runtimeconfig.json
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/clase-1/bin/Debug/net8.0/clase-1.dll
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/clase-1/bin/Debug/net8.0/clase-1.pdb
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/clase-1/obj/Debug/net8.0/clase-1.dll
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/clase-1/obj/Debug/net8.0/refint/clase-1.dll
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/clase-1/obj/Debug/net8.0/clase-1.pdb
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/clase-1/obj/Debug/net8.0/clase-1.genruntimeconfig.cache
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/clase-1/obj/Debug/net8.0/ref/clase-1.dll

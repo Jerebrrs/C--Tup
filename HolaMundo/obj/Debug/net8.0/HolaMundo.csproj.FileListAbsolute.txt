@@ -12,3 +12,4 @@
 /home/kevin/UTN/Programación-I/Practica/Practica-C#/HolaMundo/obj/Debug/net8.0/HolaMundo.pdb
 /home/kevin/UTN/Programación-I/Practica/Practica-C#/HolaMundo/obj/Debug/net8.0/HolaMundo.genruntimeconfig.cache
 /home/kevin/UTN/Programación-I/Practica/Practica-C#/HolaMundo/obj/Debug/net8.0/ref/HolaMundo.dll
+/home/kevin/UTN/Programación-I/Practica/Practica-C#/HolaMundo/obj/Debug/net8.0/HolaMundo.sourcelink.json
