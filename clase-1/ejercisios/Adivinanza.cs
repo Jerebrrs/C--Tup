@@ -6,14 +6,13 @@ namespace Ejercisios
     {
         public Adivinanza()
         {
-
             #region definicion de variables
             Random dato = new Random();
             int numero, azar;
             int intentos = 0;
             bool gano = false;
             #endregion
-
+            
             azar = dato.Next(10) + 1;
             Console.WriteLine(azar);
             do
